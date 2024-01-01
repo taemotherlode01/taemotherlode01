@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanayut Kokbangyang</h1>
-<h3 align="center">I am a third-year student at Kasetsart University Kamphaeng Saen Campus.</h3>
+<h3 align="center">I am a third-year student at Kasetsart University</h3>
 
 - 🌱 I’m currently learning **React,SpringBoot**
 
